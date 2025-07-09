@@ -19,7 +19,7 @@ Right now, I'm on a journey to become a **Frontend Developer** with a flair for 
 ### 💼 Projects I'm Proud Of
 
 - 🍳 **RasoiBot** – an AI recipe buddy that tells you what to cook based on what’s in your fridge  
-- 📺 **YouTube Clone** – HTML/CSS/JS replica of YouTube’s classic layout  
+- 📺 **YouTube Clone** – HTML & CSS replica of YouTube’s classic layout  
 - ☁️ **Weather App** – because knowing when it’s going to rain saves lives (and outfits)  
 - 🏙️ **Mumbai Mosaic** – a website showcasing the cultural spirit of Mumbai  
 
