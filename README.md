@@ -18,10 +18,9 @@ Right now, I'm on a journey to become a **Frontend Developer** with a flair for 
 
 ### 💼 Projects I'm Proud Of
 
-- 🍳 **RasoiBot** – an AI recipe buddy that tells you what to cook based on what’s in your fridge  
-- 📺 **YouTube Clone** – HTML & CSS replica of YouTube’s classic layout    
-- 🏙️ **Mumbai Mosaic** – a website showcasing the cultural spirit of Mumbai  
-
+- 📺 **YouTube Clone** – HTML & CSS replica of YouTube’s classic layout.    
+- 🏙️ **Mumbai Homepage** – a website showcasing the spirit of Mumbai.
+- 🏀 **Hoop Score** – a basketball scoreboard app and also my first ever interactive web project!
 ---
 
 ### 🧰 Tech Stack & Tools
