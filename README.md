@@ -46,7 +46,7 @@ Right now, I'm on a journey to become a **Frontend Developer** with a flair for 
 
 - I believe design should *feel right*, not just look right  
 - I enjoy working on meaningful problems and fun side-projects  
-- I’m deeply into **cricket**, **cats**, **memes**, **the internet**, and **coffee** (in no particular order ☕🐱🏏)  
+- I’m deeply into **cricket**, **cats**, **memes**, **the internet**, and **coffee** (in no particular order ;)  
 - Always up for learning something new!
 
 ---
