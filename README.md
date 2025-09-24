@@ -58,5 +58,7 @@ Right now, I'm on a journey to become a **Frontend Developer** with a flair for 
 
 ---
 
+[![An image of @aditijadhav22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aditijadhav22)](https://holopin.io/@aditijadhav22)
+
 
 Thanks for scrolling this far, you rock 💛
