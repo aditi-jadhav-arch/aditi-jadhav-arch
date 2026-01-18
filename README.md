@@ -41,24 +41,8 @@ Right now, I'm on a journey to become a **Frontend Developer** with a flair for 
 
 ---
 
-### 🐥 A Bit About Me
-
-- I believe design should *feel right*, not just look right  
-- I enjoy working on meaningful problems and fun side-projects  
-- I’m deeply into **cricket**, **cats**, **memes**, **the internet**, and **coffee** (in no particular order ;)  
-- Always up for learning something new!
-
----
 
 ### 🤝 Let’s Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/aditi-jadhav23)  
-- 🌐 Portfolio (coming soon!)  
-- ✉️ aditijadhav221103@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/aditi-jadhav23)    
 
----
-
-[![An image of @aditijadhav22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aditijadhav22)](https://holopin.io/@aditijadhav22)
-
-
-Thanks for scrolling this far, you rock 💛
